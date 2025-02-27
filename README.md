@@ -50,8 +50,6 @@ A real-time chat application built using Java sockets, supporting multiple clien
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request.
 
-## License
-This project is licensed under the MIT License.
 
-## Contact
-For any issues or suggestions, feel free to reach out at [your.email@example.com](mailto:your.email@example.com).
+## Author
+Vishvesh arora
